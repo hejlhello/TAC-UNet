@@ -69,8 +69,6 @@ if __name__ == '__main__':
         test_num = 61
         model_type = config.model_name
         # model_path = "./CSF/" + model_type + "/" + test_session + "/models/best_model-" + model_type + ".pth.tar"
-        model_path = "/root/autodl-tmp/weights/cvcdb/unet/Test_session_08.28_11h35/models/best_model-unet1.pth.tar"
-
 
     save_path  = config.task_name +'/'+ model_type +'/' + test_session + '/'
     vis_path = "./" + config.task_name + '_visualize_test/'
