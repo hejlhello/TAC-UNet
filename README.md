@@ -1,5 +1,5 @@
 ## TAC-UNet
-![framework](https://github.com/hejlhello/TAC-UNet/docs/overview.png)
+![framework](https://github.com/hejlhello/TAC-UNet/tree/main/docs/overview.png)
 
 ## Usage
 ### 1. Datasets
